@@ -1,0 +1,21 @@
+[submodule "COM"]
+	path = COM
+	url = https://github.com/ReneNyffenegger/ps-modules-COM
+[submodule "MS-Access"]
+	path = MS-Access
+	url = https://github.com/ReneNyffenegger/ps-modules-MS-Access
+[submodule "VB"]
+	path = VB
+	url = https://github.com/ReneNyffenegger/ps-modules-VB
+[submodule "console"]
+	path = console
+	url = https://github.com/ReneNyffenegger/ps-modules-console
+[submodule "filesystem"]
+	path = filesystem
+	url = https://github.com/ReneNyffenegger/ps-modules-filesystem
+[submodule "Outlook"]
+	path = Outlook
+	url = https://github.com/ReneNyffenegger/ps-modules-Outlook
+[submodule "zip"]
+	path = zip
+	url = https://github.com/ReneNyffenegger/ps-modules-zip
