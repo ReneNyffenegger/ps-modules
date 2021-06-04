@@ -19,3 +19,6 @@
 [submodule "zip"]
 	path = zip
 	url = https://github.com/ReneNyffenegger/ps-modules-zip
+[submodule "bypassEmailProxyRules"]
+	path = bypassEmailProxyRules
+	url = https://github.com/ReneNyffenegger/ps-modules-bypassEmailProxyRules
