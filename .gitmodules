@@ -25,3 +25,6 @@
 [submodule "betacode"]
 	path = betacode
 	url = https://github.com/ReneNyffenegger/ps-modules-betacode
+[submodule "MS-Office"]
+	path = MS-Office
+	url = https://github.com/ReneNyffenegger/ps-modules-MS-Office
