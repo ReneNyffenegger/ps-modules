@@ -28,3 +28,6 @@
 [submodule "MS-Office"]
 	path = MS-Office
 	url = https://github.com/ReneNyffenegger/ps-modules-MS-Office
+[submodule "regex"]
+	path = regex
+	url = https://github.com/ReneNyffenegger/ps-modules-regex
