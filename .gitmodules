@@ -34,3 +34,6 @@
 [submodule "winFileExtProgId"]
 	path = winFileExtProgId
 	url = https://github.com/ReneNyffenegger/ps-modules-winFileExtProgId
+[submodule "SQL-Developer"]
+	path = SQL-Developer
+	url = https://github.com/ReneNyffenegger/ps-module-SQL-Developer
