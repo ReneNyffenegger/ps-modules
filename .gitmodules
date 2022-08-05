@@ -37,3 +37,6 @@
 [submodule "SQL-Developer"]
 	path = SQL-Developer
 	url = https://github.com/ReneNyffenegger/ps-module-SQL-Developer
+[submodule "WinGUI"]
+	path = WinGUI
+	url = https://github.com/ReneNyffenegger/ps-modules-WinGUI
