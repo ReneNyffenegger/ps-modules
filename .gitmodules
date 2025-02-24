@@ -40,3 +40,6 @@
 [submodule "WinGUI"]
 	path = WinGUI
 	url = https://github.com/ReneNyffenegger/ps-modules-WinGUI
+[submodule "WinConfig"]
+	path = WinConfig
+	url = https://github.com/ReneNyffenegger/ps-modules-WinConfig
