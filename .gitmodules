@@ -43,3 +43,6 @@
 [submodule "WinConfig"]
 	path = WinConfig
 	url = https://github.com/ReneNyffenegger/ps-modules-WinConfig
+[submodule "wsb"]
+	path = wsb
+	url = https://github.com/ReneNyffenegger/ps-module-wsb
