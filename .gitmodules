@@ -46,3 +46,6 @@
 [submodule "wsb"]
 	path = Rene.wsb
 	url = https://github.com/ReneNyffenegger/ps-module-wsb
+[submodule "psHelpers"]
+	path = psHelpers
+	url = .\\psHelpers
