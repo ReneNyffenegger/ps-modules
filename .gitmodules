@@ -48,4 +48,4 @@
 	url = https://github.com/ReneNyffenegger/ps-module-wsb
 [submodule "psHelpers"]
 	path = psHelpers
-	url = .\\psHelpers
+	url = https://github.com/ReneNyffenegger/ps-module-psHelpers
