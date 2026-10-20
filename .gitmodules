@@ -11,7 +11,7 @@
 	path = console
 	url = https://github.com/ReneNyffenegger/ps-modules-console
 [submodule "filesystem"]
-	path = filesystem
+	path = Rene.filesystem
 	url = https://github.com/ReneNyffenegger/ps-modules-filesystem
 [submodule "Outlook"]
 	path = Outlook
